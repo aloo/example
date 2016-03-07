@@ -37,14 +37,12 @@ h6 {
     color: #f8f8f8;
     background: url(../img/corridormedstudents.jpg) no-repeat center center;
     background-size: cover;
-    border: solid yellow 10px;
 }
 
 .intro-message {
-    /*position: relative;
-    top: -100px;
-    left: -100px;*/
-    padding-top: 10%;
+    position: relative;
+    width: 50%;
+    padding-top: 1%;
     padding-bottom: 20%;
     margin-right: 20%;
     border: solid black 2px;
