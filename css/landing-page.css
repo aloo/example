@@ -31,11 +31,10 @@ h6 {
 }
 
 .jumbotron {
-   /*padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-   /* padding-bottom: 50px;
-    text-align: center;*/
     background: url(../img/corridormedstudents.jpg) no-repeat center center;
     background-size: cover;
+    border-bottom: 1px solid #e7e7e7;
+    margin: 0 0;
 }
 
 .intro-message {
@@ -44,7 +43,7 @@ h6 {
     padding-top: 1%;
     padding-bottom: 20%;
     margin-right: 20%;
-    color: #f8f8f8;
+    color: #DFE6F3;
 }
 
 .intro-message > h1 {
@@ -99,6 +98,14 @@ h6 {
 .content-section-a {
     padding: 50px 0;
     background-color: #f8f8f8;
+}
+
+.upcomingworkshops{
+    /*margin-bottom: 50px;*/
+}
+
+.workshoppic {
+    margin: 50px 0 0 0;
 }
 
 .content-section-b {
